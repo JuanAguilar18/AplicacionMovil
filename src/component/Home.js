@@ -18,7 +18,7 @@ export default class HomeScreen extends Component {
       //Background Color of Navigation Bar
     },
     headerTitleStyle:{
-      fontSize:30,
+      fontSize:31,
       alignSelf:'center',
     },
     headerTintColor: '#ffffff',
